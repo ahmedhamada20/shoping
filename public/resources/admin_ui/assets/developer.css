@@ -1,0 +1,73 @@
+.portlet>.portlet-title>.addbtntable {
+    padding: 5px !important;
+    float: right;
+    font-size: 1.5em;
+}
+
+.thumbnail a>img, .thumbnail>img
+{
+	height: 100% !important;
+	width: 100% !important;
+}
+
+.alert-success
+{
+	background-color: #2ecc71 !important;
+	color: #fff !important;
+}
+
+.alert-danger
+{
+	background-color: #c0392b !important;
+	color: #fff !important;
+}
+
+ul.breadcrumb li span.active
+{
+	color: #475567 !important; !important;
+	font-weight: bold !important;
+} 
+
+.ckeditor
+{
+	height:600px !important;
+}
+
+body
+{
+	/*background-image: url(../assets/pages/img/bck.jpg);*/
+}
+
+.page-header.navbar {
+    background: #3B3F51 !important; 
+    border-bottom: 1px solid #485677 !important;
+}
+div.page-header-inner .page-logo span.logo-default{
+	color: #7FB0DA;	
+}
+
+.logo-line-height {
+	line-height:70px;
+}
+.custom-font-size{
+	font-size:22px;
+}
+
+span.username {
+	color: #dee5ea;
+}
+.portlet.blue-hoki, .portlet.box.blue-hoki>.portlet-title, .portlet>.portlet-body.blue-hoki {
+    background-color: #1661bd;
+}
+.p-t-0{
+	padding-top: 0px !important;
+}
+
+.registered-users{
+	font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#search-box{
+	margin-bottom: 10px;
+}

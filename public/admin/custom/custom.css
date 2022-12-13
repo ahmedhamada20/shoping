@@ -1,0 +1,26 @@
+#label-upload {
+    display: inline-block;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    font-family: sans-serif;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 3rem;
+    font-size: 12px;
+    background: transparent linear-gradient(167deg, #25365c 0%, #1c5997 100%) 0% 0% no-repeat padding-box !important;
+}
+#preview-image {
+    border: solid 1px;
+}
+
+/* .wallet-div {
+    position:relative;
+}
+.wallet-btn {
+    position:absolute;
+    bottom:0;
+    right:0;
+    top: 2.4em
+    margin:5px;
+    padding: 5px 15px 5px 15px ;
+} */
